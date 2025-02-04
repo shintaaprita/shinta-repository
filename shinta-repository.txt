@@ -5,3 +5,4 @@ Shinta Resolusi
 - Belajar UI/UX
 - Minimal bisa membuat 1 aplikasi apapun di tahun 2025
 - Bisa menyelesaikan minimal membaca 1 buku perbulannya
+- Paham Front-End
